@@ -1,0 +1,10 @@
+SOP-WLD-001: Welding Inspection Procedure
+Purpose: Ensure all welds meet quality standard ISO 5817 level B.
+Scope: Applies to all MIG welding stations on Line 2.
+Procedure:
+1. Operator performs visual inspection of every weld within 5 minutes of completion.
+2. Check for cracks, porosity, undercut and incomplete fusion.
+3. Any weld with crack or incomplete fusion must be rejected immediately and tagged red.
+4. If more than 3 rejects occur in one batch of 100, stop the line and inform the Quality Engineer.
+5. Record all findings in the Inspection Log form QF-12.
+6. Shielding gas flow must be verified at 15-18 L/min at the start of every shift.

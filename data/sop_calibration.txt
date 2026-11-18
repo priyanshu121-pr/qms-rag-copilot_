@@ -1,0 +1,12 @@
+SOP-CAL-003: Measuring Instrument Calibration Procedure
+Purpose: Ensure all inspection and measuring instruments give accurate readings.
+Scope: Vernier calipers, micrometers, torque wrenches, pressure gauges, CMM.
+Calibration frequency:
+- Vernier calipers and micrometers: every 6 months.
+- Torque wrenches: every 3 months or after 5000 cycles, whichever comes first.
+- Pressure gauges: every 12 months.
+Procedure:
+1. Metrology lab calibrates against traceable national standards.
+2. A calibration sticker with due date is attached to every instrument.
+3. Instruments past due date must be removed from use and tagged "DO NOT USE".
+4. If an instrument is found out of tolerance, all products inspected since the last valid calibration must be reviewed by the Quality Engineer.

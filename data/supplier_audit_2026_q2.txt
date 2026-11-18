@@ -1,0 +1,10 @@
+Supplier Audit Report SA-2026-Q2: Precision Castings Pvt Ltd
+Audit date: 18 May 2026
+Auditor: Quality Assurance Team
+Scope: Aluminium housing castings for Gearbox GX-90.
+Findings:
+1. Major: Incoming material certificates were missing for 2 of 10 sampled lots.
+2. Minor: Dimensional inspection records not signed by the inspector.
+3. Observation: Furnace temperature logging is manual; automated logging recommended.
+Result: Conditional approval. Supplier must submit corrective action plan within 30 days.
+Supplier rating after audit: B (previously A).

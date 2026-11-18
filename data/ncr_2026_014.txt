@@ -1,0 +1,8 @@
+NCR-2026-014: Non-Conformance Report
+Date: 12 March 2026
+Product: Chassis Bracket CB-220
+Issue: 7 out of 100 brackets in Batch B-4471 showed porosity in weld seam.
+Detected at: Final visual inspection, Station 5.
+Immediate action: Batch quarantined, 100% re-inspection done.
+Suspected cause: Shielding gas flow below specification (12 L/min against required 15-18 L/min).
+Status: Open. CAPA required.

@@ -1,0 +1,9 @@
+CAPA-2026-009: Corrective and Preventive Action
+Linked NCR: NCR-2026-014
+Root cause: Gas regulator on Welding Machine WM-03 was faulty, causing low gas flow, which led to porosity in Batch B-4471.
+Corrective action: Regulator replaced on 14 March 2026. Flow verified at 16 L/min.
+Preventive action: Add gas flow check to daily start-up checklist for all welding machines.
+Owner: Maintenance Manager
+Due date: 30 March 2026
+Effectiveness check: No porosity defects in next 5 batches.
+Status: Closed on 28 March 2026 after effectiveness check passed.

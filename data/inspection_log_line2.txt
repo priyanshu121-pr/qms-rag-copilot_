@@ -1,0 +1,8 @@
+Inspection Log Summary: Line 2, Week 41 (October 2026)
+Form: QF-12
+Monday: 3 rejects in 100 (porosity, Station 5). Within limit.
+Tuesday: 5 rejects in 100 (porosity, Station 5). Limit exceeded, line stopped for 40 minutes, Quality Engineer informed.
+Wednesday: Gas flow on WM-05 measured at 13 L/min, below spec. Regulator adjusted.
+Thursday: Torque wrench TW-12 found past calibration due date by 9 days. Tagged DO NOT USE and sent to metrology lab.
+Friday: 1 reject in 100 (undercut). Within limit.
+Remark: Porosity trend correlated with low gas flow readings earlier in the week.

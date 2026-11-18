@@ -1,0 +1,9 @@
+WI-PNT-007: Powder Coating Work Instruction
+Purpose: Achieve uniform coating thickness of 60-80 microns on steel parts.
+Steps:
+1. Pre-treat parts: degrease, rinse and dry completely before coating.
+2. Spray powder at 70 kV, gun distance 20-25 cm.
+3. Cure in oven at 180 degrees C for 20 minutes.
+4. Measure coating thickness on 5 points per batch using a thickness gauge.
+5. Reject parts with orange peel, pinholes or thickness outside 60-80 microns.
+Common defect: Pinholes are usually caused by moisture on the part or contaminated compressed air.
